@@ -12,3 +12,4 @@
 /Users/yogeshverma/Documents/T2 Codes/SimpleReactionTimer/SimpleReactionMachine/obj/Debug/net9.0/SimpleReactionMachine.pdb
 /Users/yogeshverma/Documents/T2 Codes/SimpleReactionTimer/SimpleReactionMachine/obj/Debug/net9.0/SimpleReactionMachine.genruntimeconfig.cache
 /Users/yogeshverma/Documents/T2 Codes/SimpleReactionTimer/SimpleReactionMachine/obj/Debug/net9.0/ref/SimpleReactionMachine.dll
+/Users/yogeshverma/Documents/T2 Codes/SimpleReactionTimer/SimpleReactionMachine/obj/Debug/net9.0/SimpleReactionMachine.sourcelink.json
